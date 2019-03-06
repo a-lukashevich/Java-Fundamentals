@@ -30,7 +30,6 @@ public class MathEquation {
         this.leftVal = leftVal;
         this.rightVal = rightVal;
 
-
         execute();
     }
 
