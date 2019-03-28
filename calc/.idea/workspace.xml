@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c6214e3-a5c5-49c1-8fd6-2435bef048e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/calc/CaclulateHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/calc/CaclulateHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/calc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/calc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
